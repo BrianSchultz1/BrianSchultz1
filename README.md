@@ -5,5 +5,6 @@
 - 👨‍💻 Aprendendo sobre Java e buscando por novos conhecimentos
 - 💬 Linux
 - 📄 POO Java 
+- 📄 Básico Flutter
 - 📝 Inglês intermediário 
 - 📫 Entrar em contato pelo perfil do https://www.linkedin.com/in/brian-schultz-5393bb1b2/ ou E-mail: brianschultz320@gmail.com
