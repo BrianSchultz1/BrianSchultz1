@@ -1,7 +1,7 @@
 - 👋 Olá, eu me chamo Brian Schultz
 - 🤝 Estou em busca de um emprego para me tornar um profissional melhor
 - 🌱 Atualmente estou cursando Engenharia de Software na UCSAL
-- 💞️ Apaixonado e buscando aprender novas tecnologias 
+- 💞️ Buscando aprender novas tecnologias 
 - 👨‍💻 Aprendendo sobre Java e buscando por novos conhecimentos
 - 💬 Linux
 - 📄 POO Java 
