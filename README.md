@@ -1,10 +1,11 @@
-- 👋 Olá, eu me chamo Brian Schultz
+- 👋 Muito prazer, eu me chamo Brian Schultz
 - 🤝 Estou em busca de um emprego para me tornar um profissional melhor
 - 🌱 Atualmente estou cursando Engenharia de Software na UCSAL
-- 💞️ Buscando aprender novas tecnologias 
-- 👨‍💻 Aprendendo sobre Java e buscando por novos conhecimentos
+- 💞️ Agregando novas tecnologias ao mundo
+- 👨‍💻 Aprendendo sobre Java, Dart e buscando por novos conhecimentos
 - 💬 Linux
 - 📄 POO Java 
-- 📄 Básico Flutter
-- 📝 Inglês intermediário 
+- 📄 Flutter
+- 📄 Dart
+- 📝 Inglês intermediário e técnico
 - 📫 Entrar em contato pelo perfil do https://www.linkedin.com/in/brian-schultz-5393bb1b2/ ou E-mail: brianschultz320@gmail.com
