@@ -3,6 +3,7 @@
 - 🌱 Atualmente estou cursando Engenharia de Software na UCSAL
 - 💞️ Agregando novas tecnologias ao mundo
 - 👨‍💻 Aprendendo sobre Java, Dart e buscando por novos conhecimentos
+- 👨‍💻 Acesse minha rede no Instagrem sobre Flutter @fluttups
 - 💬 Linux
 - 📄 POO Java 
 - 📄 Flutter
