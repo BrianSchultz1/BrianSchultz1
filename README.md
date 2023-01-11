@@ -1,8 +1,7 @@
-- 👋 Muito prazer, eu me chamo Brian Schultz
-- 🤝 Estou em busca de novos conhecimentos para me tornar um profissional melhor
-- 🌱 Atualmente estou cursando Engenharia de Software na UCSAL
-- 💞️ Agregando novas tecnologias ao mundo
-- 👨‍💻 Aprendendo sobre Java, Dart e buscando por novos conhecimentos
+Meu nome é Brian Schultz, sou desenvolvedor FrontEnd e um estudante apaixonado Mobile.
+Atualmente, estou estudando e trabalhando em projetos com HTML, CSS e JavaScript.
+- 🔭 Atualmente estou cursando Engenharia de Software na UCSAL
+- 👨‍💻 Aprendendo sobre Javascrip e Dart
 - 👨‍💻 Acesse minha rede no Instagrem sobre Flutter @fluttups
 - 💬 Linux
 - 📄 POO Java 
