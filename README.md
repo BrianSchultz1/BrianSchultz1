@@ -1,4 +1,4 @@
-Meu nome é Brian Schultz, sou desenvolvedor FrontEnd e um estudante apaixonado Mobile.
+Meu nome é Brian Schultz, sou desenvolvedor um desenvolvedor Mobile.
 
 - 🔭 Atualmente, estou estudando e trabalhando em projetos com HTML, CSS e JavaScript.
  
