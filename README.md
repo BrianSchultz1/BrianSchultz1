@@ -7,7 +7,7 @@ Meu nome é Brian Schultz, sou desenvolvedor FrontEnd e um estudante apaixonado 
 - 📚 Aprendendo sobre Java, Javascrip e foco no Dart e Flutter
  
 - 👨‍💻 Acesse minha rede no Instagrem sobre Flutter @fluttups
+
+- 📫 Entrar em contato pelo E-mail: brianschultz320@gmail.com
  
 - ⚡️ Inglês intermediário e técnico
- 
-- 📫 Entrar em contato pelo perfil do https://www.linkedin.com/in/brian-schultz-5393bb1b2/ ou E-mail: brianschultz320@gmail.com
