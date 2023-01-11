@@ -1,13 +1,13 @@
-Meu nome é Brian Schultz, sou desenvolvedor um desenvolvedor Mobile.
+Meu nome é Brian Schultz, sou desenvolvedor Mobile
 
-- 🔭 Atualmente, estou estudando e trabalhando em projetos com HTML, CSS e JavaScript.
+- 🔭 Quero me tornar um profissional de destaque na indústria de tecnologia
  
 - 🎓 Cursando 3° semestre em Engenharia de Software na UCSAL
  
-- 📚 Aprendendo sobre Java, Javascrip e foco no Dart e Flutter
+- 📚 Possuo conhecimento em HTML, CSS, JavaScript, Java, Dart e Flutter
  
-- 👨‍💻 Acesse minha rede no Instagrem sobre Flutter @fluttups
+- 👨‍💻 Para saber mais sobre Flutter, me siga no Instagram @fluttups
 
 - 📫 Entrar em contato pelo E-mail: brianschultz320@gmail.com
  
-- ⚡️ Inglês intermediário e técnico
+- ⚡️Possuo Inglês intermediário e técnico
