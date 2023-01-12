@@ -10,4 +10,4 @@ Meu nome é Brian Schultz, sou desenvolvedor Mobile
 
 - 📫 Entrar em contato pelo E-mail: brianschultz320@gmail.com
  
-- ⚡️Possuo Inglês intermediário e técnico
+- ⚡️ Praticando Ingl
