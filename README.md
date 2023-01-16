@@ -11,6 +11,8 @@ My name is Brian Schultz, I'm a Mobile Developer
  
 - ⚡️ Practicing English Constantly
 
+  ##
+  
  <div align="center">
   <a href="https://github.com/BrianSchultz1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrianSchultz1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
