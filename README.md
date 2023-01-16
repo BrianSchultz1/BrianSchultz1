@@ -1,5 +1,6 @@
 My name is Brian Schultz, I'm a Mobile Developer
 
+
 - 🔭 I want to become a top professional in the technology industry
  
 - 🎓 Studying 3° semester in Software Engineering at UCSAL
@@ -15,6 +16,7 @@ My name is Brian Schultz, I'm a Mobile Developer
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrianSchultz1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianSchultz1&layout=compact&langs_count=7&theme=dark"/>
 </div>
+   ##
 <div align="center" style="display: inline_block">
   <h3>Languages:
 </h3>
