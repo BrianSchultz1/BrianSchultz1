@@ -1,26 +1,25 @@
-My name is Brian Schultz, I'm a Mobile Developer
+## Olá! Eu sou o Brian Schultz 🖐️
 
 
-- 🔭 I want to become a top professional in the technology industry
+- 🔭 Eu vou me tornar um profissional de ponta na indústria de tecnologia 
  
-- 🎓 Studying 3° semester in Software Engineering at UCSAL
+- 🎓 Cursando 3° semestre em Engenharia de Software na UCSAL 
  
-- 👨‍💻 To learn more about Flutter, follow me on Instagram @fluttups
+- 👨‍💻 Para saber mais sobre o Flutter, siga-me no Instagram @fluttups 
 
-- 📫 Contact us by E-mail: brianschultz320@gmail.com 
+- 📫 Entre em contato pelo e-mail: brianschultz320@gmail.com 
  
 - ⚡️ Practicing English Constantly
 
   ##
   
- <div align="center">
+ <div>
   <a href="https://github.com/BrianSchultz1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrianSchultz1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianSchultz1&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
- 
-<div align="center" style="display: inline_block">
+<div style="display: inline_block">
   <h3>Languages:
 </h3>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
