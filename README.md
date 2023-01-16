@@ -1,4 +1,4 @@
-## Olá! Meu nome é Brian Schultz. Prazer em conhecê-los! 🖐️
+## Olá! Eu sou o Brian Schultz. Prazer em conhecê-los! 🖐️
 
 
 - 🔭 Eu quero me tornar um profissional de ponta na indústria de tecnologia 
