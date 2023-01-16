@@ -2,7 +2,7 @@ My name is Brian Schultz, I'm a Mobile Developer
 
 - 🔭 I want to become a top professional in the technology industry
  
-- 🎓 Studying 3° semester in Software Engineering at UCSAL 3°
+- 🎓 Studying 3° semester in Software Engineering at UCSAL
  
 - 👨‍💻 To learn more about Flutter, follow me on Instagram @fluttups
 
