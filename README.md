@@ -4,8 +4,6 @@
 - 🔭 Eu quero me tornar um profissional de ponta na indústria de tecnologia 
  
 - 🎓 Cursando 3° semestre em Engenharia de Software na UCSAL 
- 
-- 👨‍💻 Para saber mais sobre o Flutter, siga-me no Instagram @fluttups 
 
 - 📫 Entre em contato pelo e-mail: brianschultz320@gmail.com 
  
