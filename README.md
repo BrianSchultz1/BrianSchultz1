@@ -7,7 +7,7 @@
 
 - 📫 Entre em contato pelo e-mail: brianschultz320@gmail.com 
  
-- ⚡️ Practicing English Constantly
+- ⚡️ Practicing English Constantly 
 
   ##
   
