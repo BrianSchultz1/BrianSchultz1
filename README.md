@@ -1,4 +1,4 @@
-## Olá! Eu sou o Brian Schultz! 🖐️
+## Olá! Eu me chamo Brian Schultz!
 
 
 - 🔭 Eu quero me tornar um profissional de ponta na indústria de tecnologia 
