@@ -3,7 +3,7 @@
 
 - 🔭 Eu quero me tornar um profissional de ponta na indústria de tecnologia 
  
-- 🎓 Cursando 4° semestre em Engenharia de Software na UCSAL 
+- 🎓 Cursando 5° semestre em Engenharia de Software na UCSAL 
 
 - 📫 Entre em contato pelo e-mail: brianschultz320@gmail.com 
  
