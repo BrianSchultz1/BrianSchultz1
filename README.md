@@ -2,7 +2,7 @@
 
 
 
-- 🎓 Cursando 6° semestre em Engenharia de Software na UCSAL 
+- 🎓 Cursando 7° semestre em Engenharia de Software na UCSAL 
 
 - 📫 Entre em contato pelo Linkedin
  
