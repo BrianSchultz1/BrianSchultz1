@@ -1,12 +1,6 @@
-## Me chamo Brian Schultz!
+## My name is Brian Schultz!
 
-
-
-- 🎓 Cursando 7° semestre em Engenharia de Software na UCSAL 
-
-- 📫 Entre em contato pelo Linkedin
- 
-- ⚡️ Practicing English Constantly 
+- 🎓 Software Engineer
 
   ##
   
