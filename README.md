@@ -1,4 +1,6 @@
-## My name is Brian Schultz!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23414c&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=23414c&size=35&center=true&vCenter=true&width=1000&lines=Hello👋;My+name+is+Brian+Schultz;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 - 🎓 Software Engineer
 
@@ -23,7 +25,10 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
 
-  
+ <h3>GitHub Activity:</h3>
+ 
+[![Brian's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrianSchultz1&bg_color=1a1b27&color=6e93b5&line=ffffff&point=6e93b5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 </div>
 
