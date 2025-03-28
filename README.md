@@ -28,7 +28,7 @@
 
  <h3>GitHub Activity:</h3>
  
-[![Brian's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrianSchultz1&bg_color=1a1b27&color=6e93b5&line=ffffff&point=6e93b5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Brian's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrianSchultz1&bg_color=1a1b27&color=6e93b5&line=ffffff&point=6e93b5&area=true&hide_border=true)
 
 
 </div>
