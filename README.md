@@ -18,7 +18,7 @@ Backend Java Developer • Bachelor's degree in Software Engineering • Spring 
 
 💼 Backend Java Developer
 
-🎓 Software Engineering Student
+🎓 Software Engineering
 
 🌎 Salvador - Bahia, Brazil
 
@@ -47,12 +47,6 @@ Backend Java Developer • Bachelor's degree in Software Engineering • Spring 
 <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate"/>
 </p>
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=angular,flutter,dart"/>
-</p>
-
 ### Database
 
 <p>
@@ -66,14 +60,6 @@ Backend Java Developer • Bachelor's degree in Software Engineering • Spring 
 </p>
 
 ---
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BrianSchultz1&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianSchultz1&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -99,9 +85,6 @@ Spring Boot + Kafka + RabbitMQ + Docker
 
 Java • Spring Boot • PostgreSQL
 
-🔹 Flutter Applications
-
-Mobile apps built with Flutter & Dart
 
 ---
 
