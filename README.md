@@ -5,7 +5,7 @@ Hi 👋 I'm Brian Schultz
 </h1>
 
 <p align="center">
-Backend Java Developer • Software Engineering Student • Spring Boot Enthusiast
+Backend Java Developer • Bachelor's degree in Software Engineering • Spring Boot Enthusiast
 </p>
 
 <p align="center">
