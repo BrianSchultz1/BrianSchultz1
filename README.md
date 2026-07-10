@@ -9,7 +9,7 @@ Backend Java Developer • Bachelor's degree in Software Engineering • Spring 
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=23414c&size=28&center=true&vCenter=true&width=900&lines=Backend+Java+Developer;Spring+Boot+%7C+Microservices;Software+Engineering+Student;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=23414c&size=28&center=true&vCenter=true&width=900&lines=Backend+Java+Developer;Spring+Boot+%7C+Microservices;Software+Engineering;Always+Learning+New+Technologies"/>
 </p>
 
 ---
